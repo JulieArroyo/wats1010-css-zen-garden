@@ -4,4 +4,4 @@ I am going for a modern, simplistic theme. The elements are crisp, clear, and ea
 
 The biggest impact I hope to have on the user is the feeling of movement down the page. Some elements and Icons will be interactive as well. I hope to catch the users attention with bold bolcks of colors, and engage them with interactive components.
 
-There were a lot of designs that I took bits and pieces from, but the main designs that inspired me were: <a href="http://www.csszengarden.com/221/"/>  <a href="http://www.csszengarden.com/092/"/> <a href="http://www.csszengarden.com/217/"/>
+There were a lot of designs that I took bits and pieces from, but the main designs that inspired me were: http://www.csszengarden.com/221 http://www.csszengarden.com/092 ,  http://www.csszengarden.com/217
